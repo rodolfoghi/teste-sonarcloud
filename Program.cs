@@ -23,3 +23,5 @@ static int TestB()
 }
 
 System.Console.WriteLine(Test());
+System.Console.WriteLine(TestA());
+System.Console.WriteLine(TestB());
