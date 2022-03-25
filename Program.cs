@@ -21,3 +21,5 @@ static int TestB()
     var b = a * 2;
     return b;
 }
+
+System.Console.WriteLine(Test());
