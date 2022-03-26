@@ -15,13 +15,7 @@ static int TestA()
     return d;
 }
 
-static int TestB()
-{
-    var a = 10 + 20;
-    var b = a * 2;
-    return b;
-}
 
 System.Console.WriteLine(Test());
 System.Console.WriteLine(TestA());
-System.Console.WriteLine(TestB());
+System.Console.WriteLine(Test());
