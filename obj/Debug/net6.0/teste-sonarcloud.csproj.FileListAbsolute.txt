@@ -1,0 +1,15 @@
+C:\Users\rodol\Documents\teste-sonarcloud\bin\Debug\net6.0\teste-sonarcloud.exe
+C:\Users\rodol\Documents\teste-sonarcloud\bin\Debug\net6.0\teste-sonarcloud.deps.json
+C:\Users\rodol\Documents\teste-sonarcloud\bin\Debug\net6.0\teste-sonarcloud.runtimeconfig.json
+C:\Users\rodol\Documents\teste-sonarcloud\bin\Debug\net6.0\teste-sonarcloud.dll
+C:\Users\rodol\Documents\teste-sonarcloud\bin\Debug\net6.0\teste-sonarcloud.pdb
+C:\Users\rodol\Documents\teste-sonarcloud\obj\Debug\net6.0\teste-sonarcloud.csproj.AssemblyReference.cache
+C:\Users\rodol\Documents\teste-sonarcloud\obj\Debug\net6.0\teste-sonarcloud.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodol\Documents\teste-sonarcloud\obj\Debug\net6.0\teste-sonarcloud.AssemblyInfoInputs.cache
+C:\Users\rodol\Documents\teste-sonarcloud\obj\Debug\net6.0\teste-sonarcloud.AssemblyInfo.cs
+C:\Users\rodol\Documents\teste-sonarcloud\obj\Debug\net6.0\teste-sonarcloud.csproj.CoreCompileInputs.cache
+C:\Users\rodol\Documents\teste-sonarcloud\obj\Debug\net6.0\teste-sonarcloud.dll
+C:\Users\rodol\Documents\teste-sonarcloud\obj\Debug\net6.0\refint\teste-sonarcloud.dll
+C:\Users\rodol\Documents\teste-sonarcloud\obj\Debug\net6.0\teste-sonarcloud.pdb
+C:\Users\rodol\Documents\teste-sonarcloud\obj\Debug\net6.0\teste-sonarcloud.genruntimeconfig.cache
+C:\Users\rodol\Documents\teste-sonarcloud\obj\Debug\net6.0\ref\teste-sonarcloud.dll
